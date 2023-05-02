@@ -1,15 +1,15 @@
 # RyuSAK
 
-![showDownloads](https://img.shields.io/github/downloads/Ecks1337/RyuSAK/total?style=for-the-badge)
-![showVersion](https://img.shields.io/github/package-json/v/Ecks1337/RyuSAK?style=for-the-badge)
-![showLicense](https://img.shields.io/github/license/Ecks1337/RyuSAK?style=for-the-badge)
+![showDownloads](https://img.shields.io/github/downloads/LokeYourC3PH/RyuSAK.Mirror/total?style=for-the-badge)
+![showVersion](https://img.shields.io/github/package-json/v/LokeYourC3PH/RyuSAK.Mirror?style=for-the-badge)
+![showLicense](https://img.shields.io/github/license/LokeYourC3PH/RyuSAK.Mirror?style=for-the-badge)
 
 <p align="center">
   <img width="80%" alt="screenshot" src="https://raw.githubusercontent.com/Ecks1337/RyuSAK/master/screenshot.png" />
 </p>
 
 ## Installation
-Just go to the [releases](https://github.com/Ecks1337/RyuSAK/releases) page and download the latest build for your OS.
+Just go to the [releases](https://github.com/LokeYourC3PH/RyuSAK.Mirror/releases) page and download the latest build for your OS.
 The Windows build also comes with an auto update feature.
 
 ### Windows
